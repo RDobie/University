@@ -1,0 +1,74 @@
+body{font-family:Arial;Times;}
+#wrapper /* wrapper div contains all the divs within it */
+{
+margin:auto; /* sets the webpage to be centered in the browser */
+padding:0;
+width:60%;
+}
+#header /* header div contains my logo */
+{
+background-color:#000000 ;
+margin:auto; 
+padding:5px;
+width:100%;
+height:100px;
+-moz-border-radius:15px; /* declares border radius around header div */
+border-top-left-radius:15px;
+border-top-right-radius:15px;
+
+}
+
+#nav /* nav div contains the links to the pages of my portfolio site*/
+{
+height:30px;
+width:101%;
+margin:auto;
+padding:10px 0px 0px 0px;
+text-align:center;
+float:left;
+background-color:#C0C0C0;
+color:white;
+}
+
+#content /* content div contains the main content of each page of my portfolio site */
+{
+padding:10px;
+width:99%;
+margin:auto;
+margin-top:40px;
+background-color:#000000;
+color:white;
+
+}
+#footer1 /* footer div contains links to the pages of my portfolio site */
+{
+height:30px;
+width:101%;
+margin:auto;
+padding:10px 0px 0px 0px;
+text-align:center;
+float:left;
+background-color:#C0C0C0;
+-moz-border-radius:15px; /* declares border radius around footer div */
+border-bottom-left-radius:15px;
+border-bottom-right-radius:15px;
+}
+img
+{
+min-height:10%;
+max-height:100%;
+min-width:10%;
+max-width:100%;
+}
+#content #images img:hover { /* this allows the image to be expanded and made bigger when hovered over with the mouse*/
+  -webkit-transform: scale(2,2);
+}
+video /* this css allows the vidoes to have liquidity */
+{
+min-width:10%;
+max-width:50%;
+min-height:10%;
+max-height:50%;
+}
+
+

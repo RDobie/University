@@ -1,0 +1,45 @@
+#wrapper {
+padding: 10px;
+height: 800px;
+width: 850px;
+margin-top: 10px;
+margin-right: auto;
+margin-bottom: 10px;
+margin-left: auto;
+border: 1px solid #999;}
+#header {
+padding: 10px;
+height: 150px;
+width: 95%;
+margin-top: 10px;
+margin-right: auto;
+margin-bottom: 10px;
+margin-left: auto;
+border: 1px solid #999;}
+#content {
+padding: 10px;
+height: 150px;
+width: 95%;
+margin-top: 10px;
+margin-right: auto;
+margin-bottom: 10px;
+margin-left: auto;
+border: 1px solid #999;}
+#footer1 {
+padding: 10px;
+height: 150px;
+width: 95%;
+margin-top: 10px;
+margin-right: auto;
+margin-bottom: 10px;
+margin-left: auto;
+border: 1px solid #999;}
+#footer2 {
+padding: 10px;
+height: 150px;
+width: 95%;
+margin-top: 10px;
+margin-right: auto;
+margin-bottom: 10px;
+margin-left: auto;
+border: 1px solid #999;}

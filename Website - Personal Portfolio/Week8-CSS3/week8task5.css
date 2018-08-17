@@ -1,0 +1,13 @@
+#navigation li:nth-child(3) {
+text-shadow: #555 2px 1px 4px;
+}
+
+
+
+#header h1 {
+text-shadow: #555 2px 1px 4px;
+}
+
+#navigation li: nth-child[2] {
+text-shadow: #555 2px 1px 4px;
+}
