@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=TrainTimetableGUI()
+comment0.text=\r\n\ Text\ genereted\ by\ Simple\ GUI\ Extension\ for\ BlueJ\r\n\ This\ Constructor\ sets\ up\ the\ GUI\ Interface\r\n
+comment1.params=e
+comment1.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment2.params=
+comment2.target=void\ generateMenu()
+comment2.text=\r\n\ Method\ to\ Generate\ Menu\r\n
+comment3.params=result
+comment3.target=java.lang.String\ showResult(java.util.ArrayList)
+comment3.text=\r\nIterator\ to\ search\ the\ Arraylist\ and\ find\ corresponding\ results\ from\ search\r\n
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+comment5.params=
+comment5.target=void\ run()
+numComments=6
